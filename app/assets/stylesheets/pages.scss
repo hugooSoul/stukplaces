@@ -7,3 +7,31 @@
 	z-index: 1;
 	width: 200px;
 }
+
+.landing { 
+  background: image-url("81.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.landing_title {
+	padding-top: 210px;
+}
+
+.btn-landing {
+	background: none;
+	border: solid;
+	color: white;
+}
+
+.btn-landing:hover { 
+    background: none;
+    border-color: #EEEEEE;
+	color: #EEEEEE;
+}
+.navbar {
+  margin-bottom: 0px;
+}
